@@ -67,6 +67,6 @@ f) 2, 10, 12, 16, 17, 18, 19, ____ (20)
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
 
 **Questão**: Como você descobriria, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla qual lâmpada?
-
+Eu iria ativar um dos interruptores por cerca de 10min, e desligaria o mesmo e então iria ativar o segundo interruptor. Após isso, iria até a sala das lampadas para ver qual lâmpada está acesa e qual está quente, assim podendo deduzir com maior clareza qual Interruptor está ligado a qual lâmpada. 
 ---
 
